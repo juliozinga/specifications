@@ -1,6 +1,4 @@
 FORMAT: 1A
-TEST
-SWARM
 HOST: http://orion.lab.fiware.org
 TITLE: FIWARE-NGSI v2 Specification (WIP)
 DATE: to be fixed upon next RC production
@@ -2615,4 +2613,3 @@ operations will be supported under the 'v2' resource as well.
 ### notifyContextAvailability [POST /v2/notifyContextAvailability]
 
 (The payload of the v2 notifyContextAvailability should be described)
-
